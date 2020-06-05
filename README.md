@@ -4,4 +4,6 @@ A small video downloader I made. If you are the owner of the site and don't like
 Usage:
 >go run downloader.go "url_here"
 
+Click image below to see video.
+
 [![](https://i.ytimg.com/vi/zqWZXGHsw9w/maxresdefault.jpg)](https://youtu.be/zqWZXGHsw9w)
